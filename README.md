@@ -7,7 +7,6 @@
  🤝 <b>I’m looking for help with</b> Advanced System Design & LLM optimization.<br>
  🌱 <b>I’m currently learning</b> Cloud Architecture & GenAI frameworks.<br>
  💬 <b>Ask me about</b> React, Node.js, Algorithms, or my internship at Mintzy AI.<br>
- ⚡ <b>Fun fact</b> I co-founded a cloud kitchen called "Rajasthani Rasoi" for railway passengers!
 </p>
 
 <h2 align="left">🌐 Connect with Me:</h2>
