@@ -2,10 +2,10 @@
 <h3 align="center">CSE Undergraduate at VIT | Full Stack Developer | GenAI Enthusiast</h3>
 
 <p align="left">
- 🔭 <b>I’m currently working on</b> Backend systems & GenAI personal projects (like DashMate).<br>
+ 🔭 <b>I’m currently working on</b> Backend systems & GenAI personal projects.<br>
  👯 <b>I’m looking to collaborate on</b> Open Source Full Stack (React/Next.js) & AI tools.<br>
  🤝 <b>I’m looking for help with</b> Advanced System Design & LLM optimization.<br>
- 🌱 <b>I’m currently learning</b> Cloud Architecture & GenAI frameworks.<br>
+ 🌱 <b>I’m currently learning</b> GenAI frameworks and backend optimisation.<br>
  💬 <b>Ask me about</b> React, Node.js, Algorithms, or my internship at Mintzy AI.<br>
 </p>
 
