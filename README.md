@@ -52,7 +52,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav-kayal&theme=dark&hide_border=true&layout=compact" />
 </p>
 
-<h2 align="left">📈 Activity (Last Year):</h2>
+<h2 align="left">📈 Activity:</h2>
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anubhav-kayal&theme=github-dark&hide_border=true" />
 </p>
