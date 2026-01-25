@@ -45,9 +45,14 @@
 
 <h2 align="left">📊 GitHub Stats:</h2>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=anubhav-kayal&theme=dark&hide_border=true&show_icons=true" alt="Anubhav's Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=anubhav-kayal&theme=dark&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anubhav-kayal&theme=dark&hide_border=true&show_icons=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=anubhav-kayal&theme=dark&hide_border=true" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav-kayal&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav-kayal&theme=dark&hide_border=true&layout=compact" />
+</p>
+
+<h2 align="left">📈 Activity (Last Year):</h2>
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anubhav-kayal&theme=github-dark&hide_border=true" />
 </p>
