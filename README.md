@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:6DA55F&height=220&section=header&text=Anubhav%20Kayal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20GenAI%20Builder&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:6DA55F&height=220&section=header&text=Anubhav%20Kayal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20AI&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://linkedin.com/in/anubhav-kayal">
   <img src="https://img.shields.io/badge/LinkedIn-808080?style=for-the-badge&logo=linkedin&logoColor=white" />
